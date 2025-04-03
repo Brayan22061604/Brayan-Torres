@@ -1,0 +1,22 @@
+h1{
+
+    background-color: aqua;
+    font-size:10px;
+    margin: 80px;
+    padding:20px;
+}
+
+#familia{
+    background-color: blue;
+    font-size:20px;
+    margin: 100px;
+    padding:50px;
+
+}
+
+.granja{
+    background-color: chartreuse;
+    font-size:30px;
+    margin: 150px;
+    padding:60px;
+}

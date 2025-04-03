@@ -1,0 +1,17 @@
+h1{
+background: green;
+color: black;
+margin: 15px;
+padding: 20px;
+display: inline-block;
+
+}
+
+a{
+background:red;
+color: black;
+margin: 15px;
+padding: 20px;
+display: block;
+    
+}

@@ -1,0 +1,72 @@
+button{
+    text-decoration: none;
+    padding: 10px;
+    font-size: medium;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.pagina{
+    text-decoration: none;
+    padding: 10px;
+    justify-content: space-around;
+    font-size: medium;
+    
+}
+
+nav{
+    text-decoration: none;
+    padding: 10px;
+    font-size: medium;
+    display: flex;
+    justify-content: space-around;
+}
+
+div{
+    justify-content: space-around;
+    display: flex;
+   
+    
+}
+
+
+nav li:hover{
+    background-color: black;
+}
+.terminar{
+    flex: 15;
+    background-color: blue;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+}
+
+.fila{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+footer{
+    text-align: center;
+}
+div{
+    background: gray;
+}
+.Pin{
+border: 4px solid yellow
+}
+.card-title{
+    color: aqua;
+border: 2px solid black 
+}
+.car-img-top{
+
+}
